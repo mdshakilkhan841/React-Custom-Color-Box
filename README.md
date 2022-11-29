@@ -1,5 +1,7 @@
-![image](https://user-images.githubusercontent.com/77512256/204622529-89a6a706-54fa-4e10-ad92-8cf98f06ac5d.png)
-![image](https://user-images.githubusercontent.com/77512256/204622905-fe1e8319-7cbc-4b09-b560-fabfe08c4b1c.png)
+--------------App UI--------------
+
+![image](https://user-images.githubusercontent.com/77512256/204655399-db043844-2b5e-45d9-9680-ec7f8e7531b9.png)
+![image](https://user-images.githubusercontent.com/77512256/204655624-56a7eca3-c7aa-45f6-8629-4d1c724eb010.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
