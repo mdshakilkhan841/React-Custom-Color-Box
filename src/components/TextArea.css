@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+}
+
+
+.input{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 23px;
+}
+
+.inputTextArea{
+    font-size: 23px;
+    padding: 5px;
+}
